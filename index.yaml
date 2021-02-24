@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  cilalabs-prometheus:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2021-02-24T12:01:24.503132664+05:30"
+    description: A Helm chart for installing prometheus instance in default namespace
+    digest: f42e8058f01fc549836e6524b05704cde32a787ee1a11eb7d055b2bf0b80e01f
+    name: cilalabs-prometheus
+    type: application
+    urls:
+    - https://sajidqureshi19.github.io/prometheus-helm-chart/cilalabs-prometheus-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-02-24T12:01:24.50218914+05:30"
